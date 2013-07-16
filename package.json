@@ -1,0 +1,25 @@
+{
+    "name": "node-picam",
+    "preferGlobal": false,
+    "version": "0.0.1",
+    "author": "Marcel Rieger <marcelrieger@me.com>",
+    "description": "A simple Node interface to the Raspberry Pi Camera Modul.",
+    "main": "./lib/picam",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/riga/node-picam.git"
+    },
+    "keywords": [
+        "raspberry",
+        "pi",
+        "camera",
+        "modul",
+        "photo",
+        "video"
+    ],
+    "dependencies" : {},
+    "license": "GPL",
+    "engines": {
+        "node": ">=0.6"
+    }
+}
